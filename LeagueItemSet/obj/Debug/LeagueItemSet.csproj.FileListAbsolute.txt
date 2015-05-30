@@ -1,0 +1,9 @@
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\bin\Debug\LeagueItemSet.exe.config
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.csprojResolveAssemblyReference.cache
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.Form1.resources
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.Properties.Resources.resources
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.csproj.GenerateResource.Cache
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\bin\Debug\LeagueItemSet.exe
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\bin\Debug\LeagueItemSet.pdb
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.exe
+C:\Users\Hank\Documents\GitHub\LeagueItemSet\LeagueItemSet\obj\Debug\LeagueItemSet.pdb
